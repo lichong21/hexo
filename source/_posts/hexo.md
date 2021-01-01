@@ -2,6 +2,12 @@
 title: hexo使用教程
 date: 2020-12.31
 type: "categories"
+categories: 'Hexo'
+
+tags: 
+      - hexo
+      - 博客
+      - 个人网教程
 ---
 # 使用hexo需要的环境
 
@@ -21,6 +27,6 @@ type: "categories"
 
 5.初始化完成之后，通过cd+hexo项目名的命令进入hexo项目，会在所在文件夹下面看到生成的nodeModules文件夹，说明初始化完成。
 
-6.执行npm install，安装所需要的依赖问价。
+6.执行npm install，安装所需要的依赖文件。
 
 7.安装完成之后执行hexo server命令，通过服务器启动项目，默认使用本地的4000端口，如果能在本地浏览器上通过localhost：4000，访问到hexo的首页说明hexo项目已经创建成功。
